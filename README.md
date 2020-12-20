@@ -1,6 +1,8 @@
 # UNI-APP 签名画板封装
 
 ## 核心组件所在文件 `components/SignaturePad/SignaturePad.vue`
+### 组件中有使用到uview-ui的popup组件,使用前需要引入uview组件库
+
 
 ## 基本使用方法
 可参考页面 `pages/index/index`
@@ -35,7 +37,4 @@ this.$refs.signature
 ````
 
 ## 效果展示
-<video id="video" controls preload="none" >
-      <source id="mp4" src="https://aoobao.github.io/signature/signature.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+[https://aoobao.github.io/signature/signature.mp4](https://aoobao.github.io/signature/signature.mp4)
