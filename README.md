@@ -2,7 +2,7 @@
 
 ## 核心组件所在文件 `components/SignaturePad/SignaturePad.vue`
 ### 组件中有使用到uview-ui的popup组件,使用前需要引入uview组件库
-
+[https://www.uviewui.com/](https://www.uviewui.com/)
 
 ## 基本使用方法
 可参考页面 `pages/index/index`
