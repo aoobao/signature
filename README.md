@@ -35,8 +35,7 @@ this.$refs.signature
 ````
 
 ## 效果展示
-<figure class="video_container">
-  <video controls="true" src="https://aoobao.github.io/signature/signature.mp4" >
-    <source src="https://aoobao.github.io/signature/signature.mp4" type="video/mp4">
-  </video>
-</figure>
+<video id="video" controls preload="none" >
+      <source id="mp4" src="https://aoobao.github.io/signature/signature.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
